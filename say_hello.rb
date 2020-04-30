@@ -5,5 +5,3 @@ end
 def element_to_array(array, element)
   puts array.push(element)
 end
-
-
